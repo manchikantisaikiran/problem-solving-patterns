@@ -1,0 +1,6 @@
+write a function which accepts two arrays and return true if every value in the array has a corresponding value squared in the second array and the frequency of the values must be same
+
+Test Cases:
+[1,2,3] , [4,1,9] //true
+[1,2,3] , [1,9] //false
+[1,2,1] , [4,4,1] //false
