@@ -1,0 +1,9 @@
+Given Two strings, write a function to determine if second string is anagram of first string
+An anagram is a word or phrase formed by rearranging the letters of another
+ex: iceman -> cinema
+
+Test Cases:
+
+'','' //true
+'aaz','zza' //false
+'anagram','nagaram' //true
